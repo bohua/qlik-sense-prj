@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "LzrNrjP",
+  "qProperties": {
+    "qInfo": {
+      "qId": "LzrNrjP",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Governance Rank",
+      "qDef": "Avg([Governance Rank (1 = highest gov.)])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Governance Rank",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Governance Rank",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "LzrNrjP",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.188Z",
+    "modifiedDate": "2020-04-22T21:50:29.188Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

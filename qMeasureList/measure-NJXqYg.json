@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "NJXqYg",
+  "qProperties": {
+    "qInfo": {
+      "qId": "NJXqYg",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Global Footprint - Scale",
+      "qDef": "Sum(Overall_Global_Footprint_Numeric)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Global Footprint - Scale",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Global Footprint - Scale",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "NJXqYg",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.188Z",
+    "modifiedDate": "2020-04-22T21:50:29.188Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

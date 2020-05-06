@@ -1,0 +1,1490 @@
+{
+  "qtype": "story",
+  "qid": "DJEhwY",
+  "qProperties": {
+    "qInfo": {
+      "qId": "DJEhwY",
+      "qType": "story"
+    },
+    "qMetaDef": {
+      "title": "Measuring Happiness",
+      "description": ""
+    },
+    "rank": 0,
+    "qChildListDef": {
+      "qData": {
+        "title": "/title",
+        "rank": "/rank"
+      }
+    },
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    }
+  },
+  "qChildInfos": [
+    {
+      "qtype": "slide",
+      "qid": "mXjf",
+      "qProperties": {
+        "qInfo": {
+          "qId": "mXjf",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 1,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style",
+            "srcPath": "/srcPath"
+          }
+        }
+      },
+      "qChildInfos": [
+        {
+          "qtype": "slideitem",
+          "qid": "HWxbGL",
+          "qProperties": {
+            "qInfo": {
+              "qId": "HWxbGL",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "50.77%",
+              "left": "21.27%",
+              "width": "25.09%",
+              "height": "13.43%",
+              "z-index": 6
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "%[**Sub Saharan Africa has the lowest life expectancy and the lowest Happiness Index.**](3)^[\n](left)"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "QHYYKdc",
+          "qProperties": {
+            "qInfo": {
+              "qId": "QHYYKdc",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "68.53%",
+              "left": "56.25%",
+              "width": "18.84%",
+              "height": "16.05%",
+              "z-index": 9
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "**The Western World has the highest life expectancy \\(\\~80 years\\), but is not the happiest region. **\n"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "Sjvftp",
+          "qProperties": {
+            "qInfo": {
+              "qId": "Sjvftp",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "36.88%",
+              "left": "65.45%",
+              "width": "25.17%",
+              "height": "10.65%",
+              "z-index": 5
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "**Latin America is happiest and has a life expectancy of \\~73 years.  **\n"
+            },
+            "id": "QHYYKdc",
+            "copiedFromSlide": "mXjf",
+            "action": "copy"
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "zmyz",
+          "qProperties": {
+            "qInfo": {
+              "qId": "zmyz",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "4.78%",
+              "left": "3.21%",
+              "width": "95.05%",
+              "height": "11.88%",
+              "z-index": 7
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "#[%[**Does life expectancy affect happiness? The verdict is still out \u2026 **](5)](3)"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "RLjb",
+          "qProperties": {
+            "qInfo": {
+              "qId": "RLjb",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "16.36%",
+              "left": "13.45%",
+              "width": "72.22%",
+              "height": "81.79%",
+              "z-index": 4
+            },
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot",
+            "style": {
+              "id": "vYjfedt"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "xPUXXR",
+          "qProperties": {
+            "qInfo": {
+              "qId": "xPUXXR",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "61.73%",
+              "left": "61.73%",
+              "width": "4.95%",
+              "height": "8.18%",
+              "z-index": 8
+            },
+            "dataPath": "../resources/img/storytelling/shapes/arrow_u.svg",
+            "visualization": "shape",
+            "visualizationType": "arrow_u",
+            "style": {
+              "color": "#7b7a78"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "zpxptLn",
+          "qProperties": {
+            "qInfo": {
+              "qId": "zpxptLn",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "62.69%",
+              "left": "27.46%",
+              "width": "5.64%",
+              "height": "6.94%",
+              "z-index": 10
+            },
+            "dataPath": "../resources/img/storytelling/shapes/arrow_d.svg",
+            "visualization": "shape",
+            "visualizationType": "arrow_d",
+            "style": {
+              "color": "#7b7a78"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "RWRsuEh",
+          "qProperties": {
+            "qInfo": {
+              "qId": "RWRsuEh",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "38.10%",
+              "left": "62.13%",
+              "width": "3.56%",
+              "height": "7.87%",
+              "z-index": 11
+            },
+            "dataPath": "../resources/img/storytelling/shapes/arrow_l.svg",
+            "visualization": "shape",
+            "visualizationType": "arrow_l",
+            "style": {
+              "color": "#7b7a78"
+            }
+          },
+          "qChildInfos": []
+        }
+      ]
+    },
+    {
+      "qtype": "slide",
+      "qid": "PSjQrQ",
+      "qProperties": {
+        "qInfo": {
+          "qId": "PSjQrQ",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 2,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style",
+            "srcPath": "/srcPath"
+          }
+        }
+      },
+      "qChildInfos": [
+        {
+          "qtype": "slideitem",
+          "qid": "EmqSJxm",
+          "qProperties": {
+            "qInfo": {
+              "qId": "EmqSJxm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "2.48%",
+              "left": "1.70%",
+              "width": "96.53%",
+              "height": "25.46%",
+              "z-index": 6
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "**#[%[When it comes to happiness, it\u2019s all about quality not quantity.  The number of happy years reported by a region and their overall happiness index do not directly correlate.](5)](3)**"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "ksKHg",
+          "qProperties": {
+            "qInfo": {
+              "qId": "ksKHg",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "73.92%",
+              "left": "53.19%",
+              "width": "25.35%",
+              "height": "16.51%",
+              "z-index": 8
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "Western World has the highest number of happy life years, but not the highest happiness index \\(\\~61happy years; 41 happiness index\\)"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "KTMCW",
+          "qProperties": {
+            "qInfo": {
+              "qId": "KTMCW",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "29.63%",
+              "left": "42.27%",
+              "width": "24.65%",
+              "height": "16.20%",
+              "z-index": 10
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "In comparison, Latin America has far fewer happier years, but a much higher happiness index.\\(\\~52 happy years; 52 happiness index\\)"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "ggVqUKd",
+          "qProperties": {
+            "qInfo": {
+              "qId": "ggVqUKd",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "49.54%",
+              "left": "2.26%",
+              "width": "16.06%",
+              "height": "22.22%",
+              "z-index": 11
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "South Asia has the second fewest happy years \\(40\\), but the third highest Happiness Index \\(50\\). "
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "bpfWSp",
+          "qProperties": {
+            "qInfo": {
+              "qId": "bpfWSp",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "29.17%",
+              "left": "21.09%",
+              "width": "62.07%",
+              "height": "69.91%",
+              "z-index": 5
+            },
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot",
+            "style": {
+              "id": "JpbsppW"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "KZZZg",
+          "qProperties": {
+            "qInfo": {
+              "qId": "KZZZg",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "28.25%",
+              "left": "41.53%",
+              "width": "25.52%",
+              "height": "22.69%",
+              "z-index": 9
+            },
+            "dataPath": "../resources/img/storytelling/shapes/pullout_t.svg",
+            "visualization": "shape",
+            "visualizationType": "pullout_t",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "AXPGPgk",
+          "qProperties": {
+            "qInfo": {
+              "qId": "AXPGPgk",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "71.14%",
+              "left": "53.09%",
+              "width": "26.13%",
+              "height": "21.60%",
+              "z-index": 7
+            },
+            "dataPath": "../resources/img/storytelling/shapes/pullout_b.svg",
+            "visualization": "shape",
+            "visualizationType": "pullout_b",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "uuDhSCY",
+          "qProperties": {
+            "qInfo": {
+              "qId": "uuDhSCY",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "55.25%",
+              "left": "17.19%",
+              "width": "21.27%",
+              "height": "5.40%",
+              "z-index": 12
+            },
+            "dataPath": "../resources/img/storytelling/shapes/2lines_h.svg",
+            "visualization": "shape",
+            "visualizationType": "2lines_h",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "ESWvQ",
+          "qProperties": {
+            "qInfo": {
+              "qId": "ESWvQ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "47.38%",
+              "left": "-0.07%",
+              "width": "22.83%",
+              "height": "25.77%",
+              "z-index": 4
+            },
+            "dataPath": "../resources/img/storytelling/shapes/pullout_l.svg",
+            "visualization": "shape",
+            "visualizationType": "pullout_l",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        }
+      ]
+    },
+    {
+      "qtype": "slide",
+      "qid": "EjxW",
+      "qProperties": {
+        "qInfo": {
+          "qId": "EjxW",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 3,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style",
+            "srcPath": "/srcPath"
+          }
+        }
+      },
+      "qChildInfos": [
+        {
+          "qtype": "slideitem",
+          "qid": "UaTvrK",
+          "qProperties": {
+            "qInfo": {
+              "qId": "UaTvrK",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "2.47%",
+              "left": "9.23%",
+              "width": "82.38%",
+              "height": "13.73%",
+              "z-index": 6
+            },
+            "visualization": "text",
+            "visualizationType": "title",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "**#[Higher Population = Happier People?](3)**"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "PgvdU",
+          "qProperties": {
+            "qInfo": {
+              "qId": "PgvdU",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "32.10%",
+              "left": "24.48%",
+              "width": "56.51%",
+              "height": "63.73%",
+              "z-index": 7
+            },
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot",
+            "style": {
+              "id": "QvCy"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "UjWQdgA",
+          "qProperties": {
+            "qInfo": {
+              "qId": "UjWQdgA",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "16.67%",
+              "left": "9.29%",
+              "width": "82.38%",
+              "height": "16.82%",
+              "z-index": 8
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "%[**#[East Asia and South Asia](0)**#[ are in the top 3 for the highest happiness index ](1)**#[AND](1)**#[ the highest population. Yet, ](1)#[**Latin America**](4)#[ ranks first in happiness and fifth in population.](1)](4)"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "Zasz",
+          "qProperties": {
+            "qInfo": {
+              "qId": "Zasz",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "46.76%",
+              "left": "50.52%",
+              "width": "14.93%",
+              "height": "15.90%",
+              "z-index": 5
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#b0afae"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "KvPjBj",
+          "qProperties": {
+            "qInfo": {
+              "qId": "KvPjBj",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "44.14%",
+              "left": "35.33%",
+              "width": "9.38%",
+              "height": "8.80%",
+              "z-index": 4
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#7db8da"
+            }
+          },
+          "qChildInfos": []
+        }
+      ]
+    },
+    {
+      "qtype": "slide",
+      "qid": "hmZapqa",
+      "qProperties": {
+        "qInfo": {
+          "qId": "hmZapqa",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 4,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style",
+            "srcPath": "/srcPath"
+          }
+        }
+      },
+      "qChildInfos": [
+        {
+          "qtype": "slideitem",
+          "qid": "MufjTs",
+          "qProperties": {
+            "qInfo": {
+              "qId": "MufjTs",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "4.95%",
+              "left": "8.16%",
+              "width": "84.11%",
+              "height": "11.73%",
+              "z-index": 4
+            },
+            "visualization": "text",
+            "visualizationType": "title",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "**#[%[Can money buy happiness? Not necessarily \u2026](3)](3)**"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "wqvbUvY",
+          "qProperties": {
+            "qInfo": {
+              "qId": "wqvbUvY",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "16.20%",
+              "left": "15.36%",
+              "width": "72.48%",
+              "height": "81.48%",
+              "z-index": 5
+            },
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot",
+            "style": {
+              "id": "UcdpcP"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "zDVeEFa",
+          "qProperties": {
+            "qInfo": {
+              "qId": "zDVeEFa",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "34.41%",
+              "left": "68.23%",
+              "width": "19.88%",
+              "height": "16.51%",
+              "z-index": 7
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "Western World has the highest GDP per capita \\(by 21 points\\), but is still the fourth happiest region.\n\n"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "UhGB",
+          "qProperties": {
+            "qInfo": {
+              "qId": "UhGB",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "31.64%",
+              "left": "21.88%",
+              "width": "39.84%",
+              "height": "8.33%",
+              "z-index": 9
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": " Latin America ranks 5th \\(out of 7\\) for GDP, but first for HPI.\n\n"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "xTeFjk",
+          "qProperties": {
+            "qInfo": {
+              "qId": "xTeFjk",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "31.48%",
+              "left": "21.61%",
+              "width": "40.10%",
+              "height": "7.10%",
+              "z-index": 8
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "XQmSPw",
+          "qProperties": {
+            "qInfo": {
+              "qId": "XQmSPw",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "68.83%",
+              "left": "31.42%",
+              "width": "17.45%",
+              "height": "10.80%",
+              "z-index": 11
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "Sub Saharan Africa has lowest HPI and GDP."
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "FAHxs",
+          "qProperties": {
+            "qInfo": {
+              "qId": "FAHxs",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "68.42%",
+              "left": "30.91%",
+              "width": "18.14%",
+              "height": "11.57%",
+              "z-index": 10
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "Lzvmq",
+          "qProperties": {
+            "qInfo": {
+              "qId": "Lzvmq",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "34.21%",
+              "left": "67.96%",
+              "width": "20.05%",
+              "height": "16.67%",
+              "z-index": 6
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "MJZyEfD",
+          "qProperties": {
+            "qInfo": {
+              "qId": "MJZyEfD",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "50.00%",
+              "left": "74.16%",
+              "width": "4.60%",
+              "height": "4.63%",
+              "z-index": 12
+            },
+            "dataPath": "../resources/img/storytelling/shapes/arrow_d.svg",
+            "visualization": "shape",
+            "visualizationType": "arrow_d",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "jSWjgc",
+          "qProperties": {
+            "qInfo": {
+              "qId": "jSWjgc",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "36.52%",
+              "left": "35.90%",
+              "width": "3.39%",
+              "height": "4.32%",
+              "z-index": 13
+            },
+            "dataPath": "../resources/img/storytelling/shapes/arrow_d.svg",
+            "visualization": "shape",
+            "visualizationType": "arrow_d",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "qkCjNq",
+          "qProperties": {
+            "qInfo": {
+              "qId": "qkCjNq",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "72.38%",
+              "left": "28.94%",
+              "width": "2.95%",
+              "height": "6.48%",
+              "z-index": 14
+            },
+            "dataPath": "../resources/img/storytelling/shapes/arrow_l.svg",
+            "visualization": "shape",
+            "visualizationType": "arrow_l",
+            "style": {
+              "color": "#b6d7ea"
+            }
+          },
+          "qChildInfos": []
+        }
+      ]
+    },
+    {
+      "qtype": "slide",
+      "qid": "nYxAPxh",
+      "qProperties": {
+        "qInfo": {
+          "qId": "nYxAPxh",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 5,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style",
+            "srcPath": "/srcPath"
+          }
+        }
+      },
+      "qChildInfos": [
+        {
+          "qtype": "slideitem",
+          "qid": "GgMPaz",
+          "qProperties": {
+            "qInfo": {
+              "qId": "GgMPaz",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "2.92%",
+              "left": "2.05%",
+              "width": "96.18%",
+              "height": "10.80%",
+              "z-index": 7
+            },
+            "visualization": "text",
+            "visualizationType": "title",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "**#[It\u2019s not easy being ](3)#[green](6)#[ \u2026 but it could make you happier. ](3)**"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "QDwbVH",
+          "qProperties": {
+            "qInfo": {
+              "qId": "QDwbVH",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "14.66%",
+              "left": "1.04%",
+              "width": "22.22%",
+              "height": "83.02%",
+              "z-index": 8
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "%[The regions with higher global footprints tend to be less happy. #[**Western world, Middle East and North Africa, Transition states and East Asia**](4), are all less happy than their greener neighbors in #[**Latin America and South Asia**](6). ](4)\n\n^[%[**#[Sub Saharan Africa](7)** does not follow this trend. ](4)\n](left)"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "qhtWntm",
+          "qProperties": {
+            "qInfo": {
+              "qId": "qhtWntm",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "53.54%",
+              "left": "54.48%",
+              "width": "24.93%",
+              "height": "15.53%",
+              "z-index": 5
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#7db8da"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "mXmeyV",
+          "qProperties": {
+            "qInfo": {
+              "qId": "mXmeyV",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "36.87%",
+              "left": "34.99%",
+              "width": "21.38%",
+              "height": "19.07%",
+              "z-index": 6
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#46c646"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "PzjpaGP",
+          "qProperties": {
+            "qInfo": {
+              "qId": "PzjpaGP",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "69.95%",
+              "left": "35.45%",
+              "width": "13.00%",
+              "height": "12.50%",
+              "z-index": 4
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#f93f17"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "mZqHgBj",
+          "qProperties": {
+            "qInfo": {
+              "qId": "mZqHgBj",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "15.78%",
+              "left": "28.27%",
+              "width": "59.52%",
+              "height": "82.20%",
+              "z-index": 9
+            },
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot",
+            "style": {
+              "id": "ENQjxpM"
+            }
+          },
+          "qChildInfos": []
+        }
+      ]
+    },
+    {
+      "qtype": "slide",
+      "qid": "jBUDQWJ",
+      "qProperties": {
+        "qInfo": {
+          "qId": "jBUDQWJ",
+          "qType": "slide"
+        },
+        "qMetaDef": {},
+        "rank": 6,
+        "qChildListDef": {
+          "qData": {
+            "title": "/title",
+            "sheetId": "/sheetId",
+            "ratio": "/ratio",
+            "position": "/position",
+            "dataPath": "/dataPath",
+            "visualization": "/visualization",
+            "visualizationType": "/visualizationType",
+            "style": "/style",
+            "srcPath": "/srcPath"
+          }
+        }
+      },
+      "qChildInfos": [
+        {
+          "qtype": "slideitem",
+          "qid": "PcWsSLN",
+          "qProperties": {
+            "qInfo": {
+              "qId": "PcWsSLN",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "2.46%",
+              "left": "7.89%",
+              "width": "82.32%",
+              "height": "10.98%",
+              "z-index": 7
+            },
+            "visualization": "text",
+            "visualizationType": "title",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "**#[Do bigger governments lead to happier people?](3)**"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "zwR",
+          "qProperties": {
+            "qInfo": {
+              "qId": "zwR",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": true,
+            "position": {
+              "top": "16.05%",
+              "left": "23.18%",
+              "width": "69.70%",
+              "height": "78.55%",
+              "z-index": 8
+            },
+            "visualization": "snapshot",
+            "visualizationType": "scatterplot",
+            "style": {
+              "id": "DsJHAm"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "JLVnep",
+          "qProperties": {
+            "qInfo": {
+              "qId": "JLVnep",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "15.74%",
+              "left": "1.39%",
+              "width": "21.96%",
+              "height": "80.25%",
+              "z-index": 9
+            },
+            "visualization": "text",
+            "visualizationType": "paragraph",
+            "style": {
+              "color": "#6E6E6E",
+              "text": "%[There is no correlation between happiness and government rank. Even the region with the worst rank #[\\(**South Asia**\\)](9) is happier than the region with the best #[\\(**Western World**\\)](8). **#[Latin America](4)** is the happiest region and their government is at the middle of the pack. ](4)"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "DCtjQ",
+          "qProperties": {
+            "qInfo": {
+              "qId": "DCtjQ",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "39.35%",
+              "left": "65.63%",
+              "width": "12.85%",
+              "height": "14.81%",
+              "z-index": 6
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#276e27"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "UYmMuqX",
+          "qProperties": {
+            "qInfo": {
+              "qId": "UYmMuqX",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "49.07%",
+              "left": "28.74%",
+              "width": "13.72%",
+              "height": "14.51%",
+              "z-index": 5
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#ffcf02"
+            }
+          },
+          "qChildInfos": []
+        },
+        {
+          "qtype": "slideitem",
+          "qid": "PTrgVg",
+          "qProperties": {
+            "qInfo": {
+              "qId": "PTrgVg",
+              "qType": "slideitem"
+            },
+            "qMetaDef": {},
+            "qEmbeddedSnapshotDef": {},
+            "title": "",
+            "sheetId": "",
+            "ratio": false,
+            "position": {
+              "top": "35.19%",
+              "left": "52.95%",
+              "width": "11.02%",
+              "height": "13.43%",
+              "z-index": 4
+            },
+            "dataPath": "../resources/img/storytelling/shapes/square.svg",
+            "visualization": "shape",
+            "visualizationType": "square",
+            "style": {
+              "color": "#7db8da"
+            }
+          },
+          "qChildInfos": []
+        }
+      ]
+    }
+  ]
+}

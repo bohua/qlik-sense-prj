@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "msPUUrz",
+  "qProperties": {
+    "qInfo": {
+      "qId": "msPUUrz",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Happy Planet Index",
+      "qDef": "Avg([Happy Planet Index])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Happy Planet Index",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Happy Planet Index",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "msPUUrz",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.218Z",
+    "modifiedDate": "2020-04-22T21:50:29.218Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

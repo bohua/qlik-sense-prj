@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "LmNGY",
+  "qProperties": {
+    "qInfo": {
+      "qId": "LmNGY",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Happy Life Years",
+      "qDef": "Avg([Happy Life Years])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Happy Life Years",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Happy Life Years",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "LmNGY",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.187Z",
+    "modifiedDate": "2020-04-22T21:50:29.187Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

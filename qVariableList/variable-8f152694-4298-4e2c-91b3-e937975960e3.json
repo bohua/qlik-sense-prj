@@ -1,0 +1,26 @@
+{
+  "qtype": "variable",
+  "qid": "8f152694-4298-4e2c-91b3-e937975960e3",
+  "qProperties": {
+    "qInfo": {
+      "qId": "8f152694-4298-4e2c-91b3-e937975960e3",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "vLoop",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "East Asia"
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "privileges": [
+      "read",
+      "update",
+      "delete"
+    ]
+  }
+}

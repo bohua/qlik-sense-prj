@@ -1,0 +1,26 @@
+{
+  "qtype": "variable",
+  "qid": "d8a14d9c-557b-4961-a764-71b766083740",
+  "qProperties": {
+    "qInfo": {
+      "qId": "d8a14d9c-557b-4961-a764-71b766083740",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "_vScubedNavBarPointer",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "tags": []
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "privileges": [
+      "read",
+      "update",
+      "delete"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "qtype": "masterobject",
+  "qid": "ee4b876b-83f3-4e6a-983e-d32ad1e80e89",
+  "qProperties": {
+    "qInfo": {
+      "qId": "ee4b876b-83f3-4e6a-983e-d32ad1e80e89",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "title",
+      "description": "",
+      "tags": []
+    },
+    "qHyperCubeDef": {
+      "qDimensions": [],
+      "qMeasures": [],
+      "qInterColumnSortOrder": [],
+      "qInitialDataFetch": [],
+      "qReductionMode": "N",
+      "qMode": "S",
+      "qPseudoDimPos": -1,
+      "qNoOfLeftDims": -1,
+      "qMaxStackedCells": 5000,
+      "qCalcCond": {},
+      "qTitle": {},
+      "qCalcCondition": {
+        "qCond": {},
+        "qMsg": {}
+      },
+      "qColumnOrder": [],
+      "qExpansionState": [],
+      "qLayoutExclude": {
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": []
+        }
+      }
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "responsive": "all",
+    "markdown": "**#[%[What makes us happy? Measuring what matters.](5)]({\"index\":3,\"color\":\"#276e27\"})**^[![FYBHFx](/api/v1/apps/c8df67ed\\-28db\\-441b\\-9fe0\\-09752364c7b8/media/files/Happiness\\_HPI\\_KPIs.png)**#[%[\n](5)]({\"index\":6,\"color\":\"#4477aa\"})**^[**#[\n]({\"index\":13,\"color\":\"#7b7a78\"})**%[#[The world is full of happy people from one stretch of the globe to the other.  Yet some countries have a higher concentration of joy than others.  But what\u2019s the secret to these happy countries?]({\"index\":13,\"color\":\"#7b7a78\"})](4)](left)^[%[\n](4)](left)^[%[#[@[The Happy Planet Index](http://www.happyplanetindex.org/)]({\"index\":6,\"color\":\"#4477aa\"})#[ \\(HPI\\) measures the sustainable well\\-being of 151 countries across the globe, focusing not on their abilities to produce material goods and services, but rather on their abilities to produce long, happy, and sustainable lives for the people that live in them.  A happy life doesn\u2019t have to come at the expense of our environment, and the HPI is used to promote policy that puts the well\\-being of people and the planet first. ]({\"index\":13,\"color\":\"#7b7a78\"})](4)](left)^[%[#[\n]({\"index\":13,\"color\":\"#7b7a78\"})](4)](left)^[#[%[ So which countries rank highest?  You just might be surprised.](5)]({\"index\":6,\"color\":\"#4477aa\"})](left)](inherit)",
+    "background": {
+      "url": {
+        "qStaticContentUrlDef": {}
+      },
+      "size": "auto"
+    },
+    "visualization": "text-image",
+    "images": [
+      {
+        "id": "FYBHFx",
+        "url": {
+          "qStaticContentUrlDef": {
+            "qUrl": "/api/v1/apps/c8df67ed-28db-441b-9fe0-09752364c7b8/media/files/Happiness_HPI_KPIs.png"
+          }
+        }
+      }
+    ],
+    "masterVersion": 0.96
+  }
+}

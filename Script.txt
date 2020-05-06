@@ -1,0 +1,59 @@
+///$tab Main
+// SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyThousandSep=',';
+SET MoneyDecimalSep='.';
+SET MoneyFormat='$#,##0.00;($#,##0.00)';
+SET TimeFormat='h:mm:ss TT';
+SET DateFormat='M/D/YYYY';
+SET TimestampFormat='M/D/YYYY h:mm:ss[.fff] TT';
+SET MonthNames='Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec';
+SET DayNames='Mon;Tue;Wed;Thu;Fri;Sat;Sun';
+SET LongMonthNames='January;February;March;April;May;June;July;August;September;October;November;December';
+SET LongDayNames='Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday';
+SET FirstWeekDay=6;
+SET BrokenWeeks=1;
+SET ReferenceDay=0;
+SET FirstMonthOfYear=1;
+SET CollationLocale='en-US';
+
+//Let vLoop='East Asia,Latin America,Middle East and North Africa,South Asia,Sub Saharan Africa,Transition States,Western World';
+Let vWhere = chr(39) & Replace(vLoop, ',', chr(39)& ',' &chr(39)) & chr(39) ;
+
+trace $(vWhere)
+
+[World.shp/Features]:
+LOAD
+    Country_Code,
+    World.Area
+FROM [lib://DataFiles/Features.qvd]
+(qvd);
+
+[Happy Planet Index]:
+LOAD
+    Country,
+    "HPI Rank",
+    Country_Code,
+    SubRegion,
+    Region,
+    "Life Expectancy",
+    "Well-being (0-10)",
+    "Happy Life Years",
+    "Footprint (gha/capita)",
+    "Happy Planet Index",
+    Population,
+    "GDP/capita ($PPP)",
+    "Governance Rank (1 = highest gov.)",
+    Overall_Life_Expectancy,
+    Overall_Life_Expectancy_Numeric,
+    Overall_Well_Being,
+    Overall_Well_Being_Numeric,
+    Overall_Global_Footprint,
+    Overall_Global_Footprint_Numeric,
+    "Happy Index Color"
+FROM [lib://DataFiles/Index.qvd](qvd)
+Where Match([Region], $(vWhere));
+
+
+
+

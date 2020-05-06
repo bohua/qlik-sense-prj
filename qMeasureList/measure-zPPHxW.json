@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "zPPHxW",
+  "qProperties": {
+    "qInfo": {
+      "qId": "zPPHxW",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Overall Well Being",
+      "qDef": "Minstring(Overall_Well_Being)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Overall Well Being",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Overall Well Being",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "zPPHxW",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.228Z",
+    "modifiedDate": "2020-04-22T21:50:29.228Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

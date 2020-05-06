@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "ZDKSmq",
+  "qProperties": {
+    "qInfo": {
+      "qId": "ZDKSmq",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Population",
+      "qDef": "Sum(Population)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Population",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Population",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "ZDKSmq",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.202Z",
+    "modifiedDate": "2020-04-22T21:50:29.202Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

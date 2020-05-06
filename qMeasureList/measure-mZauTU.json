@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "mZauTU",
+  "qProperties": {
+    "qInfo": {
+      "qId": "mZauTU",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Overall Global Footprint",
+      "qDef": "minstring(Overall_Global_Footprint)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Overall Global Footprint",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Overall Global Footprint",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "mZauTU",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.217Z",
+    "modifiedDate": "2020-04-22T21:50:29.217Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

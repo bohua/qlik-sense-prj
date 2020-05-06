@@ -1,0 +1,133 @@
+{
+  "qTitle": "Happiness",
+  "qFileName": "c8df67ed-28db-441b-9fe0-09752364c7b8",
+  "qLastReloadTime": "2020-04-30T20:24:23.367Z",
+  "qModified": true,
+  "qHasScript": true,
+  "qStateNames": [],
+  "qMeta": {},
+  "qLocaleInfo": {
+    "qDecimalSep": ".",
+    "qThousandSep": ",",
+    "qListSep": ",",
+    "qMoneyDecimalSep": ".",
+    "qMoneyThousandSep": ",",
+    "qCurrentYear": 2014,
+    "qMoneyFmt": "$#,##0.00;($#,##0.00)",
+    "qTimeFmt": "h:mm:ss TT",
+    "qDateFmt": "M/D/YYYY",
+    "qTimestampFmt": "M/D/YYYY h:mm:ss[.fff] TT",
+    "qCalendarStrings": {
+      "qDayNames": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "qMonthNames": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "qLongDayNames": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "qLongMonthNames": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ]
+    },
+    "qFirstWeekDay": 6,
+    "qBrokenWeeks": true,
+    "qReferenceDay": 0,
+    "qFirstMonthOfYear": 1,
+    "qCollation": "en-US"
+  },
+  "qHasData": true,
+  "qThumbnail": {
+    "qUrl": "/api/v1/apps/c8df67ed-28db-441b-9fe0-09752364c7b8/media/files/Happiness-thumbnail.png"
+  },
+  "encrypted": true,
+  "description": "The world is full of happy people from one stretch of the globe to the other.  Yet some countries have a higher concentration of joy than others.  But what\u2019s the secret to these happy countries? ...",
+  "id": "c8df67ed-28db-441b-9fe0-09752364c7b8",
+  "_resourcetype": "app",
+  "published": false,
+  "owner": "auth0|a08D000001I6Yw1IAF",
+  "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+  "createdDate": "2020-04-25T10:59:57.989Z",
+  "modifiedDate": "2020-04-30T20:24:24.260Z",
+  "dynamicColor": null,
+  "hassectionaccess": false,
+  "privileges": [
+    "read",
+    "update",
+    "delete",
+    "reload",
+    "export",
+    "duplicate",
+    "change_owner",
+    "change_space"
+  ],
+  "create": [
+    {
+      "resource": "sheet",
+      "canCreate": true
+    },
+    {
+      "resource": "bookmark",
+      "canCreate": true
+    },
+    {
+      "resource": "snapshot",
+      "canCreate": true
+    },
+    {
+      "resource": "story",
+      "canCreate": true
+    },
+    {
+      "resource": "dimension",
+      "canCreate": true
+    },
+    {
+      "resource": "measure",
+      "canCreate": true
+    },
+    {
+      "resource": "masterobject",
+      "canCreate": true
+    },
+    {
+      "resource": "variable",
+      "canCreate": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "WPjCMMb",
+  "qProperties": {
+    "qInfo": {
+      "qId": "WPjCMMb",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Happy Planet Index Rank",
+      "qDef": "Avg([HPI Rank])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Happy Planet Index Rank",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Happy Planet Index Rank",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "WPjCMMb",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.198Z",
+    "modifiedDate": "2020-04-22T21:50:29.198Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

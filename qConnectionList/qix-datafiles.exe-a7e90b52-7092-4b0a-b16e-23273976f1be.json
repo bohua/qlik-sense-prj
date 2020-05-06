@@ -1,0 +1,16 @@
+{
+  "qtype": "qix-datafiles.exe",
+  "qid": "a7e90b52-7092-4b0a-b16e-23273976f1be",
+  "qProperties": {
+    "qId": "a7e90b52-7092-4b0a-b16e-23273976f1be",
+    "qName": "DataFiles",
+    "qConnectionString": "CUSTOM CONNECT TO \"provider=qix-datafiles.exe;path=Backup:datafiles;\"",
+    "qType": "qix-datafiles.exe",
+    "qMeta": {
+      "privileges": [
+        "read"
+      ]
+    },
+    "qLogOn": "LOG_ON_SERVICE_USER"
+  }
+}

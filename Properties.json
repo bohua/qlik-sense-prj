@@ -1,0 +1,64 @@
+{
+  "qTitle": "Happiness",
+  "qLastReloadTime": "2020-04-30T20:24:23.367Z",
+  "qMigrationHash": "504d4e39a7133ee172fbe29aa58348b1e4054149",
+  "qSavedInProductVersion": "12.673.0",
+  "qThumbnail": {
+    "qUrl": "/api/v1/apps/c8df67ed-28db-441b-9fe0-09752364c7b8/media/files/Happiness-thumbnail.png"
+  },
+  "encrypted": true,
+  "description": "The world is full of happy people from one stretch of the globe to the other.  Yet some countries have a higher concentration of joy than others.  But what\u2019s the secret to these happy countries? ...",
+  "id": "c8df67ed-28db-441b-9fe0-09752364c7b8",
+  "_resourcetype": "app",
+  "published": false,
+  "owner": "auth0|a08D000001I6Yw1IAF",
+  "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+  "createdDate": "2020-04-25T10:59:57.989Z",
+  "modifiedDate": "2020-04-30T20:24:24.260Z",
+  "dynamicColor": null,
+  "hassectionaccess": false,
+  "privileges": [
+    "read",
+    "update",
+    "delete",
+    "reload",
+    "export",
+    "duplicate",
+    "change_owner",
+    "change_space"
+  ],
+  "create": [
+    {
+      "resource": "sheet",
+      "canCreate": true
+    },
+    {
+      "resource": "bookmark",
+      "canCreate": true
+    },
+    {
+      "resource": "snapshot",
+      "canCreate": true
+    },
+    {
+      "resource": "story",
+      "canCreate": true
+    },
+    {
+      "resource": "dimension",
+      "canCreate": true
+    },
+    {
+      "resource": "measure",
+      "canCreate": true
+    },
+    {
+      "resource": "masterobject",
+      "canCreate": true
+    },
+    {
+      "resource": "variable",
+      "canCreate": true
+    }
+  ]
+}

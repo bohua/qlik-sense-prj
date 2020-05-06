@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "CvGhFv",
+  "qProperties": {
+    "qInfo": {
+      "qId": "CvGhFv",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Life Expectancy",
+      "qDef": "Avg([Life Expectancy])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Life Expectancy",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Life Expectancy",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "CvGhFv",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.155Z",
+    "modifiedDate": "2020-04-22T21:50:29.155Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

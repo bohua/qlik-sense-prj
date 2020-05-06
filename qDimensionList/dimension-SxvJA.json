@@ -1,0 +1,46 @@
+{
+  "qtype": "dimension",
+  "qid": "SxvJA",
+  "qProperties": {
+    "qInfo": {
+      "qId": "SxvJA",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Region",
+        "SubRegion",
+        "Country"
+      ],
+      "qFieldLabels": [],
+      "title": "Region-SubRegion-Country"
+    },
+    "qMetaDef": {
+      "title": "Region-SubRegion-Country",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Region-SubRegion-Country",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "dimension",
+    "id": "SxvJA",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.195Z",
+    "modifiedDate": "2020-04-22T21:50:29.195Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

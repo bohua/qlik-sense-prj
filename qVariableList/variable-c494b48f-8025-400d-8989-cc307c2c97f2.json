@@ -1,0 +1,26 @@
+{
+  "qtype": "variable",
+  "qid": "c494b48f-8025-400d-8989-cc307c2c97f2",
+  "qProperties": {
+    "qInfo": {
+      "qId": "c494b48f-8025-400d-8989-cc307c2c97f2",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "i",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "3"
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "privileges": [
+      "read",
+      "update",
+      "delete"
+    ]
+  }
+}

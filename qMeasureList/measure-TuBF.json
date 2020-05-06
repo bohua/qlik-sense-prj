@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "TuBF",
+  "qProperties": {
+    "qInfo": {
+      "qId": "TuBF",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Global Footprint",
+      "qDef": "Avg([Footprint (gha/capita)])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Global Footprint",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Global Footprint",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "TuBF",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.195Z",
+    "modifiedDate": "2020-04-22T21:50:29.195Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

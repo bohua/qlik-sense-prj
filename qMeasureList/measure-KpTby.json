@@ -1,0 +1,43 @@
+{
+  "qtype": "measure",
+  "qid": "KpTby",
+  "qProperties": {
+    "qInfo": {
+      "qId": "KpTby",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "Overall Life Expectancy",
+      "qDef": "minstring(Overall_Life_Expectancy)",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "Overall Life Expectancy",
+      "description": "",
+      "tags": []
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "Overall Life Expectancy",
+    "description": "",
+    "tags": [],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "KpTby",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.187Z",
+    "modifiedDate": "2020-04-22T21:50:29.187Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}

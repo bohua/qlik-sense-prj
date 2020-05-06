@@ -1,0 +1,49 @@
+{
+  "qtype": "measure",
+  "qid": "hmUzHK",
+  "qProperties": {
+    "qInfo": {
+      "qId": "hmUzHK",
+      "qType": "measure"
+    },
+    "qMeasure": {
+      "qLabel": "GDP per capita",
+      "qDef": "Avg([GDP/capita ($PPP)])",
+      "qGrouping": "N",
+      "qExpressions": [],
+      "qActiveExpression": 0
+    },
+    "qMetaDef": {
+      "title": "GDP per capita",
+      "description": "This expression calculates the average Gross Domestic Product per capita.",
+      "tags": [
+        "GDP",
+        "Gross Domestic Product"
+      ]
+    }
+  },
+  "qChildInfos": [],
+  "qMeta": {
+    "title": "GDP per capita",
+    "description": "This expression calculates the average Gross Domestic Product per capita.",
+    "tags": [
+      "GDP",
+      "Gross Domestic Product"
+    ],
+    "_resourcetype": "app.object",
+    "_objecttype": "measure",
+    "id": "hmUzHK",
+    "approved": false,
+    "published": false,
+    "owner": "auth0|a08D000001I6Yw1IAF",
+    "ownerId": "UBbH3bc7601de5XFPWWV75ZDadMktZWt",
+    "createdDate": "2020-04-22T21:50:29.207Z",
+    "modifiedDate": "2020-04-22T21:50:29.207Z",
+    "privileges": [
+      "read",
+      "update",
+      "delete",
+      "publish"
+    ]
+  }
+}
